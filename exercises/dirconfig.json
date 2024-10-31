@@ -1,7 +1,6 @@
 {
   "evaluation": {
-    "handler": "tested",
-    "test_suite": "suite.yaml"
+    "handler": "nextflow"
   },
-  "programming_language": "python"
+  "programming_language": "nextflow"
 }
