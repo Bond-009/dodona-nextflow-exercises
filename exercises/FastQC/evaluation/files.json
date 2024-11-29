@@ -1,0 +1,7 @@
+[
+    { "type": "directory", "path": "work" },
+    { "type": "file", "path": "ggal_gut_1_fastqc.html" },
+    { "type": "file", "path": "ggal_gut_1_fastqc.zip" },
+    { "type": "file", "path": "ggal_gut_2_fastqc.html" },
+    { "type": "file", "path": "ggal_gut_2_fastqc.zip" }
+]
