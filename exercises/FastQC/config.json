@@ -4,5 +4,9 @@
       "en": "FastQC",
       "nl": "FastQC"
     }
+  },
+  "internals": {
+    "token": "P-IH97Yac6bt-8NSIMzwISXvCzmZ4D-PSjsX_TgABIHsJKhv63ukWz8BFWY2sxn4",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
